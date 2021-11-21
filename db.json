@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "CopyRight Automatico",
+      "tags": "JavaScript"
+    },
+    {
+      "title": "HtmlWebpackPlugin Multiples HTML files",
+      "tags": "JavaScript, webpack"
+    },
+    {
+      "id": "denemeID123",
+      "title": "deneme",
+      "tags": "testings"
+    },
+    {
+      "id": "1",
+      "title": "amelasyon",
+      "tags": "kayit"
+    },
+    {
+      "id": "d260eccf-bc4a-4018-b621-aa86ce536f91",
+      "title": "geliyyyyyooor",
+      "tags": "alemin krali"
+    },
+    {
+      "id": "8c4a0408-ee46-49a9-98e9-53e9c1af2f80",
+      "title": "ya ben",
+      "tags": "neyim ya"
+    }
+  ]
+}
